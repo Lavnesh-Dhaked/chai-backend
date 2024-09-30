@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "lavnesh-dhaked",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
